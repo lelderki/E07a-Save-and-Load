@@ -1,8 +1,6 @@
 # E07a-Save-and-Load    
 
-This is an opportunity for you to practice the simplest form of saving state in Godot, saving to a config file.
-
-As always, Fork and Clone this repository.
+For MSCH-C220 at Indiana University 2020 Quick demonstration on config files. Directions are below. 
 
 This exercise is taken from the [Basic Saving In Godot With Config Files](https://www.youtube.com/watch?v=ygGaN1EOQEA) by Eric Davidson. His video will guide you through the steps required to save a value (in this case, the DisplayValue) to a config file and retrieve it when the player pushes the Save and Load buttons.
 
